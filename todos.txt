@@ -1,9 +1,0 @@
-fly
-drink
-play
-replaced todo
-
-finish githubcleanfilledempty
-sleep
-play
-do smtng
